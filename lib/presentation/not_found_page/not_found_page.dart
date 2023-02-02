@@ -1,11 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:flutterweb/constants.dart';
 import 'package:flutterweb/presentation/core/buttons/call_to_action.dart';
+import 'package:flutterweb/presentation/core/page_wrapper/centered_constraint_wrapper.dart';
 import 'package:flutterweb/presentation/core/page_wrapper/page_template.dart';
 import 'package:flutterweb/presentation/home_page/homepage.dart';
 import 'package:routemaster/routemaster.dart';
-
-import 'presentation/core/page_wrapper/centered_constraint_wrapper.dart';
 
 class NotFondPage extends StatelessWidget {
   const NotFondPage({Key? key}) : super(key: key);
